@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project Project_CodeQR -->
+<!-- Saved: 2019-10-27, 23:04:19 -->
+<!-- Copyright (C) 2019 Juan Gabriel Viteri y Evelyn Yuliana Quevedo, fidelitochee@gmail.com -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>af643427ca0cb3ba690fd00387d1a195e58705e2</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>Django</ProjectType>
+  <Description>Es un proyecto basado en la necesidad de una empresa (VELSYSTEM) para generar codigos QR para publicidad asi mismo que sean registrados y validados con un lector de Codigos QR y su informacion se mantenga almacenada en los repostorios de la empresa. Los mismos tendran una validez de tiempo limitado</Description>
+  <Version>0.1</Version>
+  <Author>Juan Gabriel Viteri y Evelyn Yuliana Quevedo</Author>
+  <Email>fidelitochee@gmail.com</Email>
+  <TranslationPattern>locale/%language%/LC_MESSAGES/django.po</TranslationPattern>
+  <Eol index="0"/>
+  <Sources>
+    <Source>Project_Code_QR/__init__.py</Source>
+    <Source>Project_Code_QR/settings.py</Source>
+    <Source>Project_Code_QR/urls.py</Source>
+    <Source>Project_Code_QR/wsgi.py</Source>
+    <Source>__init__.py</Source>
+    <Source>main</Source>
+    <Source>manage.py</Source>
+  </Sources>
+  <Others>
+    <Other>.gitignore</Other>
+  </Others>
+  <MainScript>main</MainScript>
+  <Vcs>
+    <VcsType>Git</VcsType>
+    <VcsOptions>
+      <dict>
+        <key>
+          <string>add</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>checkout</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>commit</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>diff</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>export</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>global</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>history</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>log</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>remove</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>status</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>tag</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+        <key>
+          <string>update</string>
+        </key>
+        <value>
+          <list>
+            <string></string>
+          </list>
+        </value>
+      </dict>
+    </VcsOptions>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.e4p" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.htm" type="FORMS"/>
+    <FiletypeAssociation pattern="*.html" type="FORMS"/>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.js" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.md" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.mo" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.po" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.pot" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.proto" type="PROTOCOLS"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.rst" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.txt" type="OTHERS"/>
+    <FiletypeAssociation pattern="GNUmakefile" type="OTHERS"/>
+    <FiletypeAssociation pattern="Makefile" type="OTHERS"/>
+    <FiletypeAssociation pattern="README" type="OTHERS"/>
+    <FiletypeAssociation pattern="README.*" type="OTHERS"/>
+    <FiletypeAssociation pattern="makefile" type="OTHERS"/>
+  </FiletypeAssociations>
+</Project>
